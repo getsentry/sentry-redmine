@@ -1,6 +1,8 @@
 sentry-redmine
 ==================
 
+DEPRECATED: This project now lives in `sentry <https://github.com/getsentry/sentry/tree/master/src/sentry_plugins/redmine>`_
+
 An extension for Sentry which integrates with Redmine. Specifically, it allows you to easily create
 Redmine issues from events within Sentry.
 
